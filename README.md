@@ -1,21 +1,59 @@
-브랜드 온드미디어를 운영하며 콘텐츠가 검색과 AI 답변에서 어떻게 발견되는지 측정하고 자동화합니다.
+# SNH
 
-**하는 일**
-- 검색·AI 검색 최적화(SEO·AEO·GEO): 검색 결과와 AI 답변에서 브랜드가 인용되는 구조 설계
-- 성과 측정 체계: GA4, UTM, 채널별 성과 대시보드
-- 반복 업무 자동화: 키워드 순위, AI 답변 노출, 채널 성과 수집을 Python과 AI 도구로 자동화
+> **검색과 AI 답변에서 브랜드가 발견되는 구조를 설계하고 측정하는 콘텐츠 마케터** · 2019년부터 광고·커머스·모빌리티 브랜드 콘텐츠 담당
 
-**프로젝트**
+광고대행사와 커머스 영상 제작에서 출발해 모빌리티 브랜드의 온드미디어(홈페이지, 블로그, 유튜브)를 맡고 있습니다.  
+네이버·구글 검색 상위노출과 AI 답변(ChatGPT, Gemini, Claude, 구글 AI 개요) 속 브랜드 인용을 함께 관리합니다.  
+GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하고 성과 대시보드로 보고합니다.  
+반복 업무는 Python과 Claude·ChatGPT로 직접 자동화하고 서비스로 완성하는 단계는 개발자와 협업합니다.
+
+**검색 · AI 검색**  
+![SEO](https://img.shields.io/badge/SEO-2F6F5E?style=flat-square&logo=googlesearchconsole&logoColor=white) ![AEO / GEO](https://img.shields.io/badge/AEO%20%2F%20GEO-6C5CE7?style=flat-square&logo=openai&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white) ![Naver Search Advisor](https://img.shields.io/badge/Naver%20Search%20Advisor-03C75A?style=flat-square&logo=naver&logoColor=white)
+
+**분석 · 성과 측정**  
+![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![UTM Tracking](https://img.shields.io/badge/UTM%20Tracking-5A6B7B?style=flat-square&logo=googleanalytics&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Dashboard](https://img.shields.io/badge/Dashboard-3A4F6B?style=flat-square&logo=googlecharts&logoColor=white)
+
+**AI · 자동화**  
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-333333?style=flat-square&logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-555555?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**개발**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-C9A400?style=flat-square&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**채널 · 협업**  
+![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=naver&logoColor=white) ![Tistory](https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) ![Cafe24](https://img.shields.io/badge/Cafe24-1E2A78?style=flat-square&logo=shopify&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+---
+
+## 전문 영역
+
+| 영역 | 내용 |
+|---|---|
+| 검색 최적화 (SEO) | 네이버 블로그·구글 검색 상위노출 키워드 설계, 서치콘솔·서치어드바이저 등록과 사이트맵 관리 |
+| AI 검색 최적화 (AEO·GEO) | AI 답변 속 브랜드 노출·인용 측정, AI가 인용하는 콘텐츠 구조(정의·수치·비교표) 설계 |
+| 성과 측정 | GA4·UTM 설계, 글·버튼 단위 CTA 추적, 채널 성과 대시보드 |
+| 업무 자동화 | 키워드 순위, AI 답변 노출, 채널 통계 수집 자동화 (Python, Claude, ChatGPT) |
+| 콘텐츠 기획·운영 | 홈페이지·블로그·유튜브 채널 운영, B2B·B2C 콘텐츠 기획 |
+
+## 프로젝트
+
 | 저장소 | 내용 |
 |---|---|
 | [content-performance-dashboard](https://github.com/snh-builds/content-performance-dashboard) | 실무 운영 중인 콘텐츠 성과 대시보드 (채널 성과·키워드 순위·AI 답변 노출·UTM CTA 추적) |
 | [geo-visibility-service](https://github.com/snh-builds/geo-visibility-service) | 여러 브랜드의 AI 답변 노출을 매일 측정하는 GEO 측정 서비스 (기획·지표 설계, 개발 협업) |
 | [ai-answer-visibility-check](https://github.com/snh-builds/ai-answer-visibility-check) | 실무 대시보드의 AI 답변 노출 점검 부분을 가상 데이터로 공개한 도구 |
 
-**성과 사례**
+## 경력 흐름
+
+| 기간 | 분야 |
+|---|---|
+| 2023 ~ 현재 | 모빌리티 브랜드 온드미디어 (홈페이지·블로그·유튜브, SEO·GEO, 성과 측정) |
+| 2022 ~ 2023 | 카셰어링 브랜드 마케팅 |
+| 2022 | 브랜드 마케팅 |
+| 2019 ~ 2021 | 커머스 영상 콘텐츠 제작 |
+| 2019 | 광고대행사 인턴 |
 
 회사 데이터가 포함된 성과 사례는 포트폴리오로 따로 공유합니다.
 
-**관심 분야**
+## 관심 분야
 
 AI 에이전트 커머스, 에이전트가 읽는 상품 데이터 설계, AI 답변 품질과 신뢰성 검증
