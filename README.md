@@ -17,11 +17,8 @@
 **디자인 · 영상 편집**  
 ![Photoshop](https://img.shields.io/badge/Photoshop-314B65?style=flat-square) ![Illustrator](https://img.shields.io/badge/Illustrator-6B4A28?style=flat-square) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-514A75?style=flat-square)
 
-**AI 제작 도구**  
-![Higgsfield](https://img.shields.io/badge/Higgsfield-30343B?style=flat-square) ![Google Flow](https://img.shields.io/badge/Google%20Flow-4285F4?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-3D5A50?style=flat-square)
-
-**영상 생성 모델**  
-![Veo](https://img.shields.io/badge/Veo-536A85?style=flat-square) ![Seedance](https://img.shields.io/badge/Seedance-665A7C?style=flat-square)
+**AI 콘텐츠 제작 도구 및 모델**  
+![Higgsfield](https://img.shields.io/badge/Higgsfield-30343B?style=flat-square) ![Google Flow](https://img.shields.io/badge/Google%20Flow-4285F4?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-3D5A50?style=flat-square) ![Veo](https://img.shields.io/badge/Veo-536A85?style=flat-square) ![Seedance](https://img.shields.io/badge/Seedance-665A7C?style=flat-square)
 
 **개발**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-C9A400?style=flat-square&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
