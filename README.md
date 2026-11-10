@@ -1,8 +1,9 @@
 # SNH
 
-> **검색과 AI 답변에서 브랜드가 발견되는 구조를 설계하고 측정하는 브랜드 마케터**
+> **브랜드 전략부터 AI 기반 콘텐츠 제작, 성과 측정까지 연결하는 브랜드 마케터**
 
-브랜드 온드미디어(홈페이지, SNS 채널)의 채널 전략과 콘텐츠 운영을 맡고 있습니다.  
+브랜드 온드미디어(홈페이지, SNS 채널)의 채널 전략과 콘텐츠 기획·제작·운영을 맡고 있습니다.  
+Higgsfield·Google Flow로 이미지·영상을 제작하고 Claude 등 AI 도구를 연계해 제작·수정 과정을 설계합니다.  
 네이버·구글 검색 상위노출과 AI 답변(ChatGPT, Gemini, Claude, 구글 AI 개요) 속 브랜드 인용을 함께 관리합니다.  
 GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하고 성과 대시보드로 보고합니다.  
 반복 업무는 Python과 Claude·ChatGPT로 직접 자동화하고 서비스로 완성하는 단계는 개발자와 협업합니다.
@@ -15,6 +16,9 @@ GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하�
 
 **AI · 자동화**  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-333333?style=flat-square&logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-555555?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**콘텐츠 제작**  
+![Higgsfield](https://img.shields.io/badge/Higgsfield-30343B?style=flat-square) ![Google Flow](https://img.shields.io/badge/Google%20Flow-4285F4?style=flat-square)
 
 **개발**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-C9A400?style=flat-square&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -33,6 +37,8 @@ GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하�
 | 성과 측정 | GA4·UTM 설계, 글·버튼 단위 CTA 추적, 채널 성과 대시보드 |
 | 업무 자동화 | 키워드 순위, AI 답변 노출, 채널 통계 수집 자동화 (Python, Claude, ChatGPT) |
 | 온드미디어 운영 | 홈페이지·SNS 채널 전략과 운영, B2B·B2C 콘텐츠 기획 |
+| 콘텐츠 기획·제작 | 블로그·숏폼의 주제 기획, 대본·장면 구성, 이미지·영상 제작·편집 |
+| AI 제작 워크플로 | Higgsfield·Google Flow·Claude 등 도구를 연계한 제작·수정 과정 설계와 브랜드 일관성 검수 |
 
 ## 프로젝트
 
