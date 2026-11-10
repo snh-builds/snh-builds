@@ -2,15 +2,8 @@
 
 > **브랜드 전략부터 AI 기반 콘텐츠 제작, 성과 측정까지 연결하는 브랜드 마케터**
 
-브랜드 온드미디어(홈페이지, SNS 채널)의 채널 전략과 콘텐츠 기획·제작·운영을 맡고 있습니다.  
-Photoshop·Illustrator·Premiere Pro로 디자인과 영상 편집을 직접 수행합니다.  
-Higgsfield·Google Flow·Kling으로 AI 영상을 제작하고 ChatGPT·Claude를 연계해 기획·제작·수정 과정을 설계합니다.  
-네이버·구글 검색 상위노출과 AI 답변(ChatGPT, Gemini, Claude, 구글 AI 개요) 속 브랜드 인용을 함께 관리합니다.  
-GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하고 성과 대시보드로 보고합니다.  
-반복 업무는 Python과 Claude·ChatGPT로 직접 자동화하고 서비스로 완성하는 단계는 개발자와 협업합니다.
-
-**디자인 · 영상 편집**  
-![Photoshop](https://img.shields.io/badge/Photoshop-314B65?style=flat-square) ![Illustrator](https://img.shields.io/badge/Illustrator-6B4A28?style=flat-square) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-514A75?style=flat-square)
+브랜드 온드미디어(홈페이지·SNS)의 채널 전략과 콘텐츠 제작을 맡아 검색·AI 답변 노출, 문의·전환 성과를 함께 관리합니다.  
+디자인·영상 편집 경험을 바탕으로 AI 도구와 자동화를 제작·운영 과정에 연결하며, 서비스 개발은 개발자와 협업합니다.
 
 **검색 · AI 검색**  
 ![SEO](https://img.shields.io/badge/SEO-2F6F5E?style=flat-square&logo=googlesearchconsole&logoColor=white) ![AEO / GEO](https://img.shields.io/badge/AEO%20%2F%20GEO-6C5CE7?style=flat-square&logo=openai&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white) ![Naver Search Advisor](https://img.shields.io/badge/Naver%20Search%20Advisor-03C75A?style=flat-square&logo=naver&logoColor=white)
@@ -20,6 +13,9 @@ GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하�
 
 **AI · 자동화**  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-333333?style=flat-square&logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-555555?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**디자인 · 영상 편집**  
+![Photoshop](https://img.shields.io/badge/Photoshop-314B65?style=flat-square) ![Illustrator](https://img.shields.io/badge/Illustrator-6B4A28?style=flat-square) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-514A75?style=flat-square)
 
 **AI 제작 도구**  
 ![Higgsfield](https://img.shields.io/badge/Higgsfield-30343B?style=flat-square) ![Google Flow](https://img.shields.io/badge/Google%20Flow-4285F4?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-3D5A50?style=flat-square)
