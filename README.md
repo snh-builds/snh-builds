@@ -3,10 +3,14 @@
 > **브랜드 전략부터 AI 기반 콘텐츠 제작, 성과 측정까지 연결하는 브랜드 마케터**
 
 브랜드 온드미디어(홈페이지, SNS 채널)의 채널 전략과 콘텐츠 기획·제작·운영을 맡고 있습니다.  
-Higgsfield·Google Flow로 이미지·영상을 제작하고 Claude 등 AI 도구를 연계해 제작·수정 과정을 설계합니다.  
+Photoshop·Illustrator·Premiere Pro로 디자인과 영상 편집을 직접 수행합니다.  
+Higgsfield·Google Flow·Kling으로 AI 영상을 제작하고 ChatGPT·Claude를 연계해 기획·제작·수정 과정을 설계합니다.  
 네이버·구글 검색 상위노출과 AI 답변(ChatGPT, Gemini, Claude, 구글 AI 개요) 속 브랜드 인용을 함께 관리합니다.  
 GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하고 성과 대시보드로 보고합니다.  
 반복 업무는 Python과 Claude·ChatGPT로 직접 자동화하고 서비스로 완성하는 단계는 개발자와 협업합니다.
+
+**디자인 · 영상 편집**  
+![Photoshop](https://img.shields.io/badge/Photoshop-314B65?style=flat-square) ![Illustrator](https://img.shields.io/badge/Illustrator-6B4A28?style=flat-square) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-514A75?style=flat-square)
 
 **검색 · AI 검색**  
 ![SEO](https://img.shields.io/badge/SEO-2F6F5E?style=flat-square&logo=googlesearchconsole&logoColor=white) ![AEO / GEO](https://img.shields.io/badge/AEO%20%2F%20GEO-6C5CE7?style=flat-square&logo=openai&logoColor=white) ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white) ![Naver Search Advisor](https://img.shields.io/badge/Naver%20Search%20Advisor-03C75A?style=flat-square&logo=naver&logoColor=white)
@@ -17,8 +21,11 @@ GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하�
 **AI · 자동화**  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-333333?style=flat-square&logo=cursor&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-555555?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 
-**콘텐츠 제작**  
-![Higgsfield](https://img.shields.io/badge/Higgsfield-30343B?style=flat-square) ![Google Flow](https://img.shields.io/badge/Google%20Flow-4285F4?style=flat-square)
+**AI 제작 도구**  
+![Higgsfield](https://img.shields.io/badge/Higgsfield-30343B?style=flat-square) ![Google Flow](https://img.shields.io/badge/Google%20Flow-4285F4?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-3D5A50?style=flat-square)
+
+**영상 생성 모델**  
+![Veo](https://img.shields.io/badge/Veo-536A85?style=flat-square) ![Seedance](https://img.shields.io/badge/Seedance-665A7C?style=flat-square)
 
 **개발**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-C9A400?style=flat-square&logo=javascript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -38,7 +45,8 @@ GA4와 UTM으로 콘텐츠가 문의와 전환으로 이어지는지 측정하�
 | 업무 자동화 | 키워드 순위, AI 답변 노출, 채널 통계 수집 자동화 (Python, Claude, ChatGPT) |
 | 온드미디어 운영 | 홈페이지·SNS 채널 전략과 운영, B2B·B2C 콘텐츠 기획 |
 | 콘텐츠 기획·제작 | 블로그·숏폼의 주제 기획, 대본·장면 구성, 이미지·영상 제작·편집 |
-| AI 제작 워크플로 | Higgsfield·Google Flow·Claude 등 도구를 연계한 제작·수정 과정 설계와 브랜드 일관성 검수 |
+| 디자인·영상 편집 | Photoshop·Illustrator·Premiere Pro를 활용한 디자인 제작과 영상 편집 |
+| AI 제작 워크플로 | ChatGPT·Claude와 이미지·영상 제작 도구를 연계한 기획·제작·수정 과정 설계와 브랜드 일관성 검수 |
 
 ## 프로젝트
 
